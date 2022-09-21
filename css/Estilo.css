@@ -1,41 +1,7 @@
 
-.primeira{ 
-    background-color: red;
-            width:200px;
-            height:200px;
-            display: flex;
-            justify-content: center;
-            align-items: center;}
-    
-
-.segunda {background-color: blue; 
-    width:200px;
-    height:200px;
-    display: flex;
-    justify-content: center;
-    align-items: center;}
-
-.terceira {background-color: yellow;
-width:200px;
-height:200px;
-display: flex;
-justify-content: center;
-align-items: center;}
 
 
-.quarta {background-color: green;      
-     width:200px;
-    height:200px;
-    display: flex;
-    justify-content: center;
-    align-items: center;}
 
-  
-.container{
-    display: flex;
-    border: 2px solid black;
-    width: 400px;
-    flex-wrap: wrap;
-            
-
+body{
+    background-image: url("../fundo.jpg");
 }
