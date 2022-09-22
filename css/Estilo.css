@@ -1,7 +1,19 @@
 
+.primeiraclasse{ 
+    display: flex;
+    flex-direction: row;
 
+
+}
+
+img{
+    height: 300px;
+    display: flex;
+
+}
 
 
 body{
     background-image: url("../fundo.jpg");
+    
 }
