@@ -6,14 +6,29 @@
 
 }
 
+.paragrafo{ 
+    font-size: 17px;
+
+
+
+}
+li{
+    font-size: 17px;
+}
 img{
     height: 300px;
     display: flex;
+    margin-left: 600px;
+    margin-bottom: auto;
+    
 
+}
+form{
+    margin-left: 600px;
 }
 
 
 body{
-    background-image: url("../fundo.jpg");
+    background-image: url("../fotodefundo2.webp");
     
 }
